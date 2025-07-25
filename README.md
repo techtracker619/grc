@@ -65,8 +65,8 @@ Establishes a framework for managing the confidentiality, integrity, and availab
 - Annual security awareness training is mandatory for all staff.  
 - Any information security incidents must be reported within 24 hours.  
 
-📄 [Download Policy]([./Information_Security_Policy.docx](https://github.com/techtracker619/grc/blob/577640a1d52c90e5a1812df26576a6022f063598/deliverables/templates/Information_Security_Policy_Examples.docx))  
-🧠 [Real-World Examples](./Information_Security_Policy_Examples.docx)
+📄 [Download Policy](https://github.com/techtracker619/grc/blob/577640a1d52c90e5a1812df26576a6022f063598/deliverables/templates/Information_Security_Policy_Examples.docx) 
+🧠 [Real-World Examples]([./Information_Security_Policy_Examples.docx]
 
 ---
 
