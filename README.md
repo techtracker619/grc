@@ -66,7 +66,7 @@ Establishes a framework for managing the confidentiality, integrity, and availab
 - Any information security incidents must be reported within 24 hours.  
 
 📄 [Download Policy](https://github.com/techtracker619/grc/blob/577640a1d52c90e5a1812df26576a6022f063598/deliverables/templates/Information_Security_Policy_Examples.docx)
-🧠 [Real-World Examples]([./Information_Security_Policy_Examples.docx]
+🧠 [Real-World Examples](https://github.com/techtracker619/grc/blob/577640a1d52c90e5a1812df26576a6022f063598/deliverables/real-world%20examples/Information_Security_Policy_Examples.pdf)
 
 ---
 
