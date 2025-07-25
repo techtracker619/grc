@@ -52,11 +52,6 @@ Below are three foundational elements for any GRC program. These are intended to
 
 ---
 
-# 📄 Sample Policy Templates
-
-This folder includes sample cybersecurity policy templates intended to guide organizations in establishing governance and setting expectations around secure behavior. These documents can be customized per organization size, industry, or compliance framework.
-
----
 
 ## 🔐 Information Security Policy
 
