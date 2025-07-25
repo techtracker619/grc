@@ -64,13 +64,14 @@ This folder includes sample cybersecurity policy templates intended to guide org
 Establishes a framework for managing the confidentiality, integrity, and availability of organizational information.
 
 **Key Points:**
-- Data must be protected through technical and administrative controls.
-- Role-based access control (RBAC) must be enforced.
-- All systems must be patched monthly and monitored continuously.
-- Annual security awareness training is mandatory for all staff.
-- Any information security incidents must be reported within 24 hours.
+- Data must be protected through technical and administrative controls.  
+- Role-based access control (RBAC) must be enforced.  
+- All systems must be patched monthly and monitored continuously.  
+- Annual security awareness training is mandatory for all staff.  
+- Any information security incidents must be reported within 24 hours.  
 
-📄 [Download Policy](./Information_Security_Policy.md)
+📄 [Download Policy](./Information_Security_Policy.docx)  
+🧠 [Real-World Examples](./Information_Security_Policy_Examples.docx)
 
 ---
 
@@ -80,12 +81,13 @@ Establishes a framework for managing the confidentiality, integrity, and availab
 Defines acceptable and unacceptable use of company-owned or managed devices and services.
 
 **Key Points:**
-- Access only systems and data required for your job.
-- Do not install unapproved software or use unauthorized cloud services.
-- Avoid using company devices for personal or illegal activity.
-- Follow data handling procedures based on classification.
+- Access only systems and data required for your job.  
+- Do not install unapproved software or use unauthorized cloud services.  
+- Avoid using company devices for personal or illegal activity.  
+- Follow data handling procedures based on classification.  
 
-📄 [Download Policy](./Acceptable_Use_Policy.md)
+📄 [Download Policy](./Acceptable_Use_Policy.docx)  
+🧠 [Real-World Examples](./Acceptable_Use_Policy_Examples.docx)
 
 ---
 
@@ -95,11 +97,12 @@ Defines acceptable and unacceptable use of company-owned or managed devices and 
 Ensures data is categorized and protected based on sensitivity and regulatory requirements.
 
 **Classification Levels:**
-1. **Confidential** – Highly sensitive data (PII, PHI, financial records).
-2. **Internal Use Only** – Non-public but not confidential.
-3. **Public** – Safe for public consumption, such as marketing content.
+- **Confidential** – Highly sensitive data (PII, PHI, financial records).  
+- **Internal Use Only** – Non-public but not confidential.  
+- **Public** – Safe for public consumption, such as marketing content.  
 
-📄 [Download Policy](./Data_Classification_Policy.md)
+📄 [Download Policy](./Data_Classification_Policy.docx)  
+🧠 [Real-World Examples](./Data_Classification_Policy_Examples.docx)
 
 ---
 
