@@ -52,7 +52,55 @@ Below are three foundational elements for any GRC program. These are intended to
 
 ---
 
-## 📄 Sample Policy Templates
+# 📄 Sample Policy Templates
 
-### 🔐 Information Security Policy
+This folder includes sample cybersecurity policy templates intended to guide organizations in establishing governance and setting expectations around secure behavior. These documents can be customized per organization size, industry, or compliance framework.
+
+---
+
+## 🔐 Information Security Policy
+
+**Purpose:**  
+Establishes a framework for managing the confidentiality, integrity, and availability of organizational information.
+
+**Key Points:**
+- Data must be protected through technical and administrative controls.
+- Role-based access control (RBAC) must be enforced.
+- All systems must be patched monthly and monitored continuously.
+- Annual security awareness training is mandatory for all staff.
+- Any information security incidents must be reported within 24 hours.
+
+📄 [Download Policy](./Information_Security_Policy.md)
+
+---
+
+## 💻 Acceptable Use Policy (AUP)
+
+**Purpose:**  
+Defines acceptable and unacceptable use of company-owned or managed devices and services.
+
+**Key Points:**
+- Access only systems and data required for your job.
+- Do not install unapproved software or use unauthorized cloud services.
+- Avoid using company devices for personal or illegal activity.
+- Follow data handling procedures based on classification.
+
+📄 [Download Policy](./Acceptable_Use_Policy.md)
+
+---
+
+## 🗂️ Data Classification Policy
+
+**Purpose:**  
+Ensures data is categorized and protected based on sensitivity and regulatory requirements.
+
+**Classification Levels:**
+1. **Confidential** – Highly sensitive data (PII, PHI, financial records).
+2. **Internal Use Only** – Non-public but not confidential.
+3. **Public** – Safe for public consumption, such as marketing content.
+
+📄 [Download Policy](./Data_Classification_Policy.md)
+
+---
+
 
